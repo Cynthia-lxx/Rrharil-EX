@@ -4340,7 +4340,6 @@
     {"floor":4161,"eventType":"MoveDecorations","duration":1,"tag":"cd2c","opacity":0,"angleOffset":1260,"ease":"InCubic","eventTag":""},
     {"floor":4161,"eventType":"MoveDecorations","duration":1,"tag":"cd3","opacity":100,"parallaxOffset":[null,null],"angleOffset":1440,"ease":"OutCubic","eventTag":""},
     {"floor":4161,"eventType":"MoveDecorations","duration":1,"tag":"cd3","opacity":0,"angleOffset":1710,"ease":"InCubic","eventTag":""},
-    {"floor":4161,"eventType":"MoveDecorations","duration":1,"tag":"cd3","opacity":100,"parallaxOffset":[null,null],"angleOffset":1440,"ease":"OutCubic","eventTag":""},
     {"floor":4161,"eventType":"MoveDecorations","duration":1,"tag":"cd3c","opacity":100,"angleOffset":1710,"ease":"OutCubic","eventTag":""},
     {"floor":4161,"eventType":"MoveDecorations","duration":1,"tag":"cd0","opacity":100,"angleOffset":0,"ease":"OutCubic","eventTag":""},
     {"floor":4161,"eventType":"MoveDecorations","duration":1,"tag":"cd3c","opacity":0,"angleOffset":1980,"ease":"InCubic","eventTag":""},
