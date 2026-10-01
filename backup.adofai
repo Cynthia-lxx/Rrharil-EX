@@ -3866,7 +3866,8 @@
     {"floor":3481,"eventType":"SetHitsound","gameSound":"Hitsound","hitsound":"Kick","hitsoundVolume":100},
     {"floor":3481,"eventType":"EditorComment","comment":"PHASE VII"},
     {"floor":3481,"eventType":"AnimateTrack","trackAnimation":"Extend","beatsAhead":32,"trackDisappearAnimation":"Fade","beatsBehind":0},
-    {"floor":3481,"eventType":"Twirl"}
+    {"floor":3481,"eventType":"Twirl"},
+    {"floor":3481,"eventType":"MoveDecorations","duration":1,"tag":"sampleTag","positionOffset":[null,null],"parallaxOffset":[null,null],"angleOffset":0,"ease":"Linear","eventTag":""}
   ],
   "decorations": [
     {"floor":240,"eventType":"AddParticle","visible":false,"locked":true,"tag":"p3-1-m1 p3-1-p1","decorationImage":"glow2x2_offset_SurberHD.png","randomTextureTiling":[2,2],"simulationSpace":"Local","startRotation":[0,360],"color":{"mode":"Color","color1":"ffffff"},"velocityLimitOverLifetime":[0,0],"colorOverLifetime":{"mode":"Gradient","color1":"ffffff","gradient1":{"mode":"Blend","alphaKeys":[{"time":0,"alpha":0},{"time":0.1000076,"alpha":0.4},{"time":0.5000076,"alpha":0.75},{"time":0.9000076,"alpha":0.4},{"time":1,"alpha":0}],"colorKeys":[{"time":0,"color":"FFFFFF"},{"time":1,"color":"FFFFFF"}]}},"maxParticles":1000,"autoPlay":false,"playDuration":5,"loop":true,"particleLifetime":[5,10],"particleSize":[10,50],"velocity":[[-40,-2],[-1,2]],"rotationOverTime":[0,0],"shapeType":"Rectangle","shapeRadius":1,"arc":360,"arcMode":"Random","emissionRate":[100,100],"simulationSpeed":100,"randomSeed":509,"position":[0,0],"relativeTo":"Tile","pivotOffset":[0,0],"rotation":0,"scale":[10000,5000],"depth":-500,"parallax":[95,95],"parallaxOffset":[0,0],"maskingType":"None","lockRotation":false,"lockScale":false},
